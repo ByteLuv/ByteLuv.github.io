@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 首页
-permalink: /Index/
+permalink: /
 categories: Index
 nav_order: 1
 ---
