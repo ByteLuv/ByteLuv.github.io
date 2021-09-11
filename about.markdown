@@ -3,6 +3,7 @@ layout: page
 title: Git使用方法
 permalink: /GitUsage/
 categories: Usage
+parent: 开发者文档
 ---
 
 # Git日常基本操作
