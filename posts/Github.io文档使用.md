@@ -46,7 +46,7 @@ categories: Development
 
 - 安装Ruby : [Download Ruby (ruby-lang.org)](https://www.ruby-lang.org/en/downloads/)
 
-- 安装RubyGems : [Download RubyGems | RubyGems.org | Ruby 社区 Gem 托管](https://rubygems.org/pages/download)
+- 安装RubyGems : [Download RubyGems](https://rubygems.org/pages/download)
 
 - 命令行进入github.io目录
 
