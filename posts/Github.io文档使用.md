@@ -54,6 +54,10 @@ categories: Development
 
   ``` gem install jekyll bundler```
 
+- 初始化bundle
+
+  ``` bundle install```
+
 - 最后执行
 
   ```bundle exec jekyll serve```

@@ -12,5 +12,5 @@ nav_order: 1
 
 
 
-### **Byte can _dance & love._**
+### **Byte can _LOVE & DANCE_**
 
